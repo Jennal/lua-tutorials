@@ -1,0 +1,3 @@
+#!/bin/sh
+gcc userdata.c -shared -llua -o pos.so
+lua userdata.lua

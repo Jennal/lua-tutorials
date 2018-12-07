@@ -1,0 +1,3 @@
+#!/bin/sh
+gcc call_lua.c -llua -o call_lua
+./call_lua

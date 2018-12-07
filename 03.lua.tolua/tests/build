@@ -1,0 +1,3 @@
+#!/bin/sh
+gcc hello.c -llua -lm -o hello
+

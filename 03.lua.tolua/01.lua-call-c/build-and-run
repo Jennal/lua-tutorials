@@ -1,0 +1,3 @@
+#!/bin/sh
+gcc tolua.c -shared -llua -o tolua.so
+lua tolua.lua

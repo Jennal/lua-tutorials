@@ -1,0 +1,5 @@
+.DS_Store
+*.tar.gz
+*.so
+03.lua.tolua/tests/hello
+03.lua.tolua/00.c-call-lua/call_lua
